@@ -6,18 +6,31 @@ Twitter sentiment analysis on live tweets using 5 different machine learning alg
 # Requirements
 
 -Python 3.x
+
 -Anaconda
+
 -Jupyter Notebook
+
 -Nvidia cudNN
+
 -tensorflow
+
 -nltk
+
 -pandas
+
 -keras 2.3.1
+
 -sklearn
+
 -numpy
+
 -twitter API
+
 -regex
+
 -sentiment140 dataset from kaggle
+
 -GloVe word embedding
 
 
