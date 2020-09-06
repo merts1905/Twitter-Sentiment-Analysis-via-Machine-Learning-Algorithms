@@ -40,11 +40,11 @@ Twitter sentiment analysis on live tweets using 5 different machine learning alg
 
 -This dataset has 800k negative labeled tweets and 200k positive labeled tweets and mentions
 
--I shuffled data randomly using shuffle.py and using main.py i divide dataset into 5 different size so that i can see the effects of dataset size on my project.These divided datasets have %60 negative labeled tweets and %40 positive labeled tweets
+-I shuffled data randomly using shuffle.py and using main.py for dividing dataset into 5 different size so that i can see the effects of dataset size on my project.These divided datasets have %60 negative labeled tweets and %40 positive labeled tweets
 
 -Train models with LSTN.py,CNN.py,NB.py,RF.py,SVM.py
 
--It generates pickle file that saves model 
+-It generates pickle files that saves model 
 
 -Using this saved model you can make predictions on live tweets
 
