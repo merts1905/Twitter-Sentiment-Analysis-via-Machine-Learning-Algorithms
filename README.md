@@ -1,27 +1,29 @@
 # Twitter-Sentiment-Analysis-via-Machine-Learning-Algorithms
 Twitter sentiment analysis on live tweets using 5 different machine learning algorithms : SVM,NB,RF,CNN,LSTM
 
-**you need your own twitter API key for this project**
+**YOU NEED YOUR OWN API KEY FOR THIS PROJECT ! **
 
 # Requirements
 
-*python 3.x
-*Anaconda
-*Nvidia cudNN
-*tensorflow
-*nltk
-*pandas
-*keras 2.3.1
-*sklearn
-*numpy
-*twitter library
-*regex
+python 3.x
+Anaconda
+Jupyter Notebook
+Nvidia cudNN
+tensorflow
+nltk
+pandas
+keras 2.3.1
+sklearn
+numpy
+twitter API
+regex
+sentiment140 dataset from kaggle
+GloVe word embedding
 
-------
 
 # How to use
 
--I used sentiment140 dataset on kaggle for training algorithms
+-I used sentiment140 dataset on kaggle for training algorithms and GloVe word embedding
 
 -This dataset has 800k negative labeled tweets and 200k positive labeled tweets and mentions
 
